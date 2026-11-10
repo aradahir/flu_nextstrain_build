@@ -81,9 +81,9 @@ flowchart LR
     G --> H["Traits"]
     H --> I["Ancestral"]
     I --> J["Translate"]
-    K --> L["Estimate Frequency"]
-    L --> M["Export"]
-    M --> N[View]
+    J --> K["Estimate Frequency"]
+    K --> L["Export"]
+    L --> M[View]
 
 
 ```
