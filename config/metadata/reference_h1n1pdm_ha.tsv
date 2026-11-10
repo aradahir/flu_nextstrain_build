@@ -1,0 +1,74 @@
+strain	designation	gisaid_epi_isl	passage	center	date	month	type	location	state
+A/MISSOURI/11/2025_F_S_SH	A/Missouri/11/2025	EPI_ISL_20231687	S2, MDCK2	Centers for Disease Control and Prevention	2025-01-30		Vaccine		
+A/VICTORIA/4897/2022_e_S	A/Victoria/4897/2022	EPI_ISL_16714268	E3	Royal Melbourne Hospital	2022-10-02		Vaccine		
+A/VICTORIA/4897/2022_F	A/Victoria/4897/2022	EPI_ISL_20352452	MDCK2	Royal Melbourne Hospital	2022-10-02		Reference		
+A/Wisconsin/67/2022_S	A/Wisconsin/67/2022	EPI_ISL_19741353	S2, MDCK2	Centers for Disease Control and Prevention	2022-10-25		Vaccine		
+A/DARWIN/328/2024_F	A/Darwin/328/2024	EPI_ISL_19194701	SIAT1	Royal Darwin Hospital	2024-04-19		Reference		
+A/DARWIN/463/2023_F	A/Darwin/463/2023	EPI_ISL_18543903	MDCK1	Royal Darwin Hospital	2023-11-02		Reference		
+A/SYDNEY/5/2021_F	A/Sydney/5/2021	EPI_ISL_16899233 	MDCK3	Clinical Virology Unit, CDIM	2021-10-15		Reference		
+A/SYDNEY/604/2023_F	A/Sydney/604/2023	EPI_ISL_18139246	MDCK1	Childrens Hospital Westmead	2023-07-03		Reference		
+A/VICTORIA/376/2024_F	A/Victoria/376/2024	EPI_ISL_20352454 	MDCK3	Monash Medical Centre	2024-05-04		Reference		
+A/VICTORIA/650/2023_F	A/Victoria/650/2023	EPI_ISL_17811508	SIAT1	WHO Collaborating Centre for Reference and Research on Influenza	2023-02-02		Reference		
+A/VICTORIA/42/2025_F	A/Victoria/42/2025 	EPI_ISL_20157886 	MDCK2	Royal Melbourne Hospital	2025-01-22		Reference		
+A/CANBERRA/4/2024_e_F	A/Canberra/4/2024	EPI_ISL_19030761	E2		2024-01-03		Reference		
+A/DARWIN/370/2024_e_F	A/Darwin/370/2024	EPI_ISL_19218197	E2	Royal Darwin Hospital	2024-04-26		Reference		
+A/PERTH/456/2025_F	A/Perth/456/2025	EPI_ISL_20070476	MDCK2	Pathwest QE II Medical Centre	2025-03-23		Reference		
+A/CANBERRA/651/2024_q_F	A/Canberra/651/2024	EPI_ISL_19714829	QMC2	Canberra Hospital	2024-11-03		Reference		
+A/SINGAPORE/SAR3644/2024_e_F	A/Singapore/SAR3644/2024	EPI_ISL_19778271	E3	Ministry of Health, Singapore	2024-05-13		Reference		
+A/DARWIN/1015/2025_F	A/Darwin/1015/2025	EPI_ISL_20138699	MDCK2	Royal Darwin Hospital	2025-07-03		Reference		
+A/SYDNEY/124/2025_e_F	A/Sydney/124/2025	EPI_ISL_20123831	E4	Childrens Hospital Westmead	2025-04-23		Reference		
+A/Sydney/910/2025_S_nov	A/Sydney/910/2025	EPI_ISL_20268409	MDCK1	Childrens Hospital Westmead	2025-11-06	nov	Human Serology		
+A/Michigan/103/2025_S	A/Michigan/103/2025	EPI_ISL_20235882	S1	Centers for Disease Control and Prevention	2025-06-21		Human Serology		
+A/Canberra/42/2025_e	A/Canberra/42/2025	EPI_ISL_19812958	E3	Canberra Hospital	2025-01-11		Egg		
+A/Canberra/45/2025_e	A/Canberra/45/2025	EPI_ISL_19812956	E2	Canberra Hospital	2025-01-13		Egg		
+A/Victoria/42/2025_e	A/Victoria/42/2025	EPI_ISL_20070576	E2	Royal Melbourne Hospital	2025-01-22		Egg		
+A/Darwin/778/2025_e	A/Darwin/778/2025	EPI_ISL_20123828	E4	Royal Darwin Hospital	2025-05-02		Egg		
+A/Darwin/1021/2025_e	A/Darwin/1021/2025	EPI_ISL_20209922	E4	Royal Darwin Hospital	2025-07-04		Egg		
+A/Darwin/1423/2025_e	A/Darwin/1423/2025	EPI_ISL_20209921	E2	Royal Darwin Hospital	2025-08-04		Egg		
+A/Darwin/1425/2025_e	A/Darwin/1425/2025	EPI_ISL_20209919	E2	Royal Darwin Hospital	2025-08-04		Egg		
+A/Sydney/400/2025_e	A/Sydney/400/2025	EPI_ISL_20209920	E3	Childrens Hospital Westmead	2025-07-09		Egg		
+A/Victoria/1139/2025_e	A/Victoria/1139/2025	EPI_ISL_20157862	E2	Royal Melbourne Hospital	2025-07-05		Egg		
+A/Victoria/1144/2025_e	A/Victoria/1144/2025	EPI_ISL_20157860	E2	Royal Melbourne Hospital	2025-07-08		Egg		
+A/Sydney/1327/2024_e	A/Sydney/1327/2024	EPI_ISL_19676574	E2	Childrens Hospital Westmead	2024-09-27		Egg		
+A/Canberra/85/2025_q	A/Canberra/85/2025	EPI_ISL_20129800	QMC2	Canberra Hospital	2025-02-09		QMC		
+A/Darwin/139/2025_q	A/Darwin/139/2025	EPI_ISL_20129802	QMC2	Royal Darwin Hospital	2025-02-13		QMC		
+A/Tasmania/89/2025_q	A/Tasmania/89/2025	EPI_ISL_20129803	QMC2	Hobart Pathology	2025-01-14		QMC		
+A/Sydney/78/2025_q	A/Sydney/78/2025	EPI_ISL_20129804 	QMC2	Clinical Virology Unit, CDIM	2025-03-26		QMC		
+A/Darwin/778/2025_q	A/Darwin/778/2025	EPI_ISL_20129805	QMC2	Royal Darwin Hospital	2025-05-02		QMC		
+A/Tasmania/318/2025_q	A/Tasmania/318/2025	EPI_ISL_20130738	QMC2	Royal Hobart Hospital	2025-05-01		QMC		
+A/Darwin/760/2025_q	A/Darwin/760/2025	EPI_ISL_20129875	QMC2	Royal Darwin Hospital	2025-05-04		QMC		
+A/Victoria/770/2025_q	A/Victoria/770/2025	EPI_ISL_20129876	QMC2	Alfred Hospital	2025-05-28		QMC		
+A/South_Queensland/47/2025_q	A/South_Queensland/47/2025	EPI_ISL_20129877	QMC2	Princess Alexandra Hospital	2025-06-02		QMC		
+A/Tasmania/611/2025_q	A/Tasmania/611/2025	EPI_ISL_20184115	QMC2	Royal Hobart Hospital	2025-07-01		QMC		
+A/Sydney/352/2025_q	A/Sydney/352/2025	EPI_ISL_20184116	QMC2	Childrens Hospital Westmead	2025-07-01		QMC		
+A/Darwin/1021/2025_q	A/Darwin/1021/2025	EPI_ISL_20184117	QMC2	Royal Darwin Hospital	2025-07-04		QMC		
+A/Darwin/1028/2025_q	A/Darwin/1028/2025	EPI_ISL_20184118	QMC2	Royal Darwin Hospital	2025-07-05		QMC		
+A/Darwin/1035/2025_q	A/Darwin/1035/2025	EPI_ISL_20184119	QMC2	Royal Darwin Hospital	2025-07-03		QMC		
+A/Sydney/656/2025_q	A/Sydney/656/2025	EPI_ISL_20260606	QMC2	Childrens Hospital Westmead	2025-08-14		QMC		
+A/Victoria/1645/2025_q	A/Victoria/1645/2025	EPI_ISL_20260607	QMC2	Monash Medical Centre	2025-07-21		QMC		
+cdcA/Iowa/110/2024_F_S	A/Iowa/110/2024	EPI_ISL_19539411	S1	Centers for Disease Control and Prevention	2024-09-27				
+cdcA/Tennessee/77/2024_F_S	A/Tennessee/77/2024	EPI_ISL_19539426	S1	Centers for Disease Control and Prevention	2024-09-27				
+cdcA/Washington/310/2024_F	A/Washington/310/2024	EPI_ISL_20066836	Spf2E1	Centers for Disease Control and Prevention	2024-12-23				
+cdcA/Colorado/218/2024_F_S	A/Colorado/218/2024	EPI_ISL_20077101	S2	Centers for Disease Control and Prevention	2024-10-17				
+cdcA/Michigan/59/2023_F	A/Michigan/59/2023	EPI_ISL_18527337	OR_IR	Centers for Disease Control and Prevention	2023-10-09				
+cdcA/Uganda/7353/2025	A/Uganda/7353/2025	EPI_ISL_20309747		Lisa Keong (Centers for Disease Control and Prevention / Influenza Division)	2025-10-27				
+cnicA/Tianjin-Heping/SWL1527/2025	A/Tianjin-Heping/SWL1527/2025	EPI_ISL_20308484		Xiaoxu Zeng (WHO Chinese National Influenza Center / National Institute for Viral Disease Control and Prevention, China CDC)	2025-11-10				
+crickA/Iceland/25-38521/2025	A/Iceland/25-38521/2025	EPI_ISL_20307070		Alex Byrne (Crick Worldwide Influenza Centre / WHO Collaborating Centre for Reference and Research on Influenza)	2025-11-16				
+crickA/Ireland/00081567/2025	A/Ireland/00081567/2025	EPI_ISL_20307054		Alex Byrne (Crick Worldwide Influenza Centre / WHO Collaborating Centre for Reference and Research on Influenza)	2025-11-08				
+crickA/Bayern/80/2025	A/Bayern/80/2025	EPI_ISL_20307043		Alex Byrne (Crick Worldwide Influenza Centre / WHO Collaborating Centre for Reference and Research on Influenza)	2025-11-10				
+crickA/BritishColumbia/RV04669-25/2025	A/BritishColumbia/RV04669-25/2025	EPI_ISL_20302155		Alex Byrne (Crick Worldwide Influenza Centre / WHO Collaborating Centre for Reference and Research on Influenza)	2025-09-25				
+crickA/Switzerland/UN-SNRCI-HUG/001/2025	A/Switzerland/UN-SNRCI-HUG/001/2025	EPI_ISL_20298144		Alex Byrne (Crick Worldwide Influenza Centre / WHO Collaborating Centre for Reference and Research on Influenza)	2025-10-16				
+cdcA/Colorado/ISC-1617/2025	A/Colorado/ISC-1617/2025	EPI_ISL_20289824		Lisa Keong (Centers for Disease Control and Prevention / Influenza Division)	2025-12-01				
+cdcA/North_Dakota/56/2025	A/North Dakota/56/2025	EPI_ISL_20275577		Lisa Keong (Centers for Disease Control and Prevention / Influenza Division)	2025-10-16				
+cnicA/Zhejiang-Dinghai/SWL11726/2025	A/Zhejiang-Dinghai/SWL11726/2025	EPI_ISL_20271381		Xiaoxu Zeng (WHO Chinese National Influenza Center / National Institute for Viral Disease Control and Prevention, China CDC)	2025-10-11				
+cnicA/Guangdong-Meijiang/SWL11631/2025	A/Guangdong-Meijiang/SWL11631/2025	EPI_ISL_20271380		Xiaoxu Zeng (WHO Chinese National Influenza Center / National Institute for Viral Disease Control and Prevention, China CDC)	2025-10-07				
+cnicA/Shanghai-Pudongxin/SWL12672/2025	A/Shanghai-Pudongxin/SWL12672/2025	EPI_ISL_20271366		Xiaoxu Zeng (WHO Chinese National Influenza Center / National Institute for Viral Disease Control and Prevention, China CDC)	2025-11-05				
+niidA/Tokyo/EIS14-012/2025	A/TOKYO/EIS14-012/2025	EPI_ISL_20250041		Emi Takashita (Japan Institute for Health Security (JIHS) / National Institute of Infectious Diseases (NIID))	2025-10-25				
+niidA/Tokyo/EIS13-961/2025	A/TOKYO/EIS13-961/2025	EPI_ISL_20250017		Emi Takashita (Japan Institute for Health Security (JIHS) / National Institute of Infectious Diseases (NIID))	2025-10-15				
+niidA/Kanagawa/IC2505/2025	A/KANAGAWA/IC2505/2025	EPI_ISL_20249980		Emi Takashita (Japan Institute for Health Security (JIHS) / National Institute of Infectious Diseases (NIID))	2025-10-09				
+othA/Ghana/FS-25-10715/2025	A/Ghana/FS-25-10715/2025	EPI_ISL_20330347		Ivy Asantewaa Asante (Noguchi Memorial Institute for Medical Research (NMIMR) / Virology)	2025-12-03				
+othA/Colombia/ANT-LDSP117/2026	A/Colombia/ANT-LDSP117/2026	EPI_ISL_20336989		Idabely Betancur Ortiz (Salud Pública de Antioquia / Bacteriology and Clinical Laboratory)	2026-01-02				
+othA/Quebec/LSPQ/116/2025	A/Quebec/LSPQ/116/2025	EPI_ISL_20344680		Dihya Baloul (Laboratoire de Santé Publique du Québec )	2025-12-19				
+othA/England/01902721/2026	A/England/01902721/2026	EPI_ISL_20349582		Beatrix Kele (UKHSA / Respiratory Virus Unit / VRD)	2026-01-18				
+cdcA/Massachusetts/ISC-1049/2026	A/Massachusetts/ISC-1049/2026	EPI_ISL_20352058		Lisa Keong (Centers for Disease Control and Prevention / Influenza Division)	2026-01-19				
+othA/Costa_Rica/INC-2272-887054/2026	A/Costa_Rica/INC-2272-887054/2026	EPI_ISL_20352230		Claudio Soto-Garita (Inciensa, Investigación y Enseñanza en Nutrición y Salud / Centro Nacional de Referencia de Virología)	2026-01-19				

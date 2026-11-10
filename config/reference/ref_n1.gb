@@ -1,0 +1,105 @@
+LOCUS       A/California/07/2009                1410 bp    cRNA    linear   VRL 14-JUL-2009
+DEFINITION  Influenza A virus (A/California/07/2009(H1N1)) segment 6
+            neuraminidase (NA) gene, complete cds.
+ACCESSION   A/California/07/2009
+VERSION     A/California/07/2009
+DBLINK      BioProject: PRJNA37813
+KEYWORDS    .
+SOURCE      Influenza A virus (A/California/07/2009(H1N1))
+  ORGANISM  Influenza A virus (A/California/07/2009(H1N1))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus.
+REFERENCE   1  (bases 1 to 1410)
+  AUTHORS   Shu,B., Balish,A., Garten,R., Smith,C., Emery,S., Barnes,J.,
+            Deyde,V., Klimov,A. and Cox,N.
+  TITLE     Human infection with novel swine H1N1 influenza
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1410)
+  AUTHORS   Shu,B., Balish,A., Garten,R., Smith,C., Emery,S., Barnes,J.,
+            Deyde,V., Klimov,A. and Cox,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2009) WHO Collaborating Center for Surveillance,
+            Epidemiology and Control of Influenza, Influenza Division, Centers
+            for Disease Control and Prevention, 1600 Clifton Road, N.E.,
+            Atlanta, GA 30333, USA
+COMMENT     Swine influenza A (H1N1) virus isolated during human swine flu
+            outbreak of 2009.  For more information, see http://www.cdc.gov/.
+            
+            Some of the information does not have GenBank feature identifiers
+            and is being provided in the comment section.
+            
+            ##EpifluData-START##
+            Isolate                :: A/California/07/2009
+            Subtype                :: H1N1
+            Segment_name           :: NA
+            Host_gender            :: M
+            Host_age               :: 54
+            Passage_history        :: C1
+            Antigen_character      :: A/CALIFORNIA/07/2009-LIKE (H1N1)V
+            Adamantane_resistance  :: resistant
+            Zanamivir_resistance   :: sensitive
+            Oseltamivir_resistance :: sensitive
+            Country                :: USA
+            State/Province         :: California state
+            Collection_day         :: 9
+            Collection_month       :: 4
+            Collection_year        :: 2009
+            Isolate_note           :: Comment: Human infection with novel H1N1
+                                      swine influenza
+            EPI_accession          :: EPI185379
+            Lineage                :: swl
+            ##EpifluData-END##
+FEATURES             Location/Qualifiers
+     source          1..1410
+                     /organism="Influenza A virus (A/California/07/2009(H1N1))"
+                     /mol_type="viral cRNA"
+                     /strain="A/California/07/2009"
+                     /serotype="H1N1"
+                     /host="Homo sapiens; gender: M; age: 54"
+                     /db_xref="taxon:641809"
+                     /segment="6"
+                     /country="USA: California state"
+                     /collection_date="09-Apr-2009"
+     gene            1..1410
+                     /gene="NA"
+     CDS             1..1410
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="ACT36688.1"
+                     /translation="MNPNQKIITIGSVCMTIGMANLILQIGNIISIWISHSIQLGNQN
+                     QIETCNQSVITYENNTWVNQTYVNISNTNFAAGQSVVSVKLAGNSSLCPVSGWAIYSK
+                     DNSVRIGSKGDVFVIREPFISCSPLECRTFFLTQGALLNDKHSNGTIKDRSPYRTLMS
+                     CPIGEVPSPYNSRFESVAWSASACHDGINWLTIGISGPDNGAVAVLKYNGIITDTIKS
+                     WRNNILRTQESECACVNGSCFTVMTDGPSNGQASYKIFRIEKGKIVKSVEMNAPNYHY
+                     EECSCYPDSSEITCVCRDNWHGSNRPWVSFNQNLEYQIGYICSGIFGDNPRPNDKTGS
+                     CGPVSSNGANGVKGFSYKYGNGVWIGRTKSISSRNGFEMIWDPNGWTGTDNNFSIKQD
+                     IVGINEWSGYSGSFVQHPELTGLDCIRPCFWVELIRGRPKENTIWTSGSSISFCGVNS
+                     DTVGWSWPDGAELPFTIDK"
+ORIGIN      
+        1 atgaatccaa accaaaagat aataaccatt ggttcggtct gtatgacaat tggaatggct
+       61 aacttaatat tacaaattgg aaacataatc tcaatatgga ttagccactc aattcaactt
+      121 gggaatcaaa atcagattga aacatgcaat caaagcgtca ttacttatga aaacaacact
+      181 tgggtaaatc agacatatgt taacatcagc aacaccaact ttgctgctgg acagtcagtg
+      241 gtttccgtga aattagcggg caattcctct ctctgccctg ttagtggatg ggctatatac
+      301 agtaaagaca acagtgtaag aatcggttcc aagggggatg tgtttgtcat aagggaacca
+      361 ttcatatcat gctccccctt ggaatgcaga accttcttct tgactcaagg ggccttgcta
+      421 aatgacaaac attccaatgg aaccattaaa gacaggagcc catatcgaac cctaatgagc
+      481 tgtcctattg gtgaagttcc ctctccatac aactcaagat ttgagtcagt cgcttggtca
+      541 gcaagtgctt gtcatgatgg catcaattgg ctaacaattg gaatttctgg cccagacaat
+      601 ggggcagtgg ctgtgttaaa gtacaacggc ataataacag acactatcaa gagttggaga
+      661 aacaatatat tgagaacaca agagtctgaa tgtgcatgtg taaatggttc ttgctttact
+      721 gtaatgaccg atggaccaag taatggacag gcctcataca agatcttcag aatagaaaag
+      781 ggaaagatag tcaaatcagt cgaaatgaat gcccctaatt atcactatga ggaatgctcc
+      841 tgttatcctg attctagtga aatcacatgt gtgtgcaggg ataactggca tggctcgaat
+      901 cgaccgtggg tgtctttcaa ccagaatctg gaatatcaga taggatacat atgcagtggg
+      961 attttcggag acaatccacg ccctaatgat aagacaggca gttgtggtcc agtatcgtct
+     1021 aatggagcaa atggagtaaa agggttttca tacaaatatg gcaatggtgt ttggataggg
+     1081 agaactaaaa gcattagttc aagaaacggt tttgagatga tttgggatcc gaacggatgg
+     1141 actgggacag acaataactt ctcaataaag caagatatcg taggaataaa tgagtggtca
+     1201 ggatatagcg ggagttttgt tcagcatcca gaactaacag ggctggattg tataagacct
+     1261 tgcttctggg ttgaactaat cagagggcga cccaaagaga acacaatctg gactagcggg
+     1321 agcagcatat ccttttgtgg tgtaaacagt gacactgtgg gttggtcttg gccagacggt
+     1381 gctgagttgc catttaccat tgacaagtaa
+//

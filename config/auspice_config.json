@@ -1,0 +1,83 @@
+{
+  "title": "Influenza Phylogeny",
+  "maintainers": [
+     {"name": "Arada Hirankitti", "url": "https://github.com/aradahir"},
+   {"name": "Clyde Dapat", "url": "https://github.com/clyde-dapat"}
+  
+  ],
+  "build_url": "https://github.com/nextstrain/seasonal-flu",
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "author",
+      "title": "Author",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "month",
+      "title": "Month",
+      "type": "categorical"
+    },
+    {
+      "key": "clade",
+      "title": "Clade",
+      "type": "categorical"
+    },
+    {
+      "key": "subclade",
+      "title": "Subclade",
+      "type": "categorical"
+    },
+    {
+      "key": "state",
+      "title": "State",
+      "type": "categorical"
+    } 
+  ],
+  "geo_resolutions": [
+    "country",
+    "region",
+    "location",
+    "state"
+  ],
+  "panels": [
+     "tree",
+     "entropy",
+     "map",
+     "frequencies"
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "branch_label": "subclade",
+    "color_by": "subclade",
+    "panels": ["tree", "frequencies", "map"]
+  },
+  "filters": [
+    "location",
+    "month",
+    "state",
+    "type", 
+    "clade",
+    "subclade",
+    "haplotype"
+  ]
+}
