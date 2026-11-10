@@ -1,0 +1,9 @@
+WARNING: results/vic_ha/auspice/vic_ha_frequencies.json has empty or nonexistent `nodes` and `branches`. Please check the formatting of this JSON!
+Validating schema of 'results/vic_ha/tree/vic_ha_aa_muts.json'...
+Validating schema of 'results/vic_ha/tree/vic_ha_nt_muts.json'...
+FATAL ERROR:
+	Couldn't parse the JSON file config/auspice_config.json
+	Error message: 'Illegal trailing comma before end of object'
+	Line number: '43'
+	Column number: '28'
+	You must correct this file in order to proceed.

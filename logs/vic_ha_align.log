@@ -1,0 +1,17 @@
+
+using mafft to align via:
+	mafft --reorder --anysymbol --nomemsave --adjustdirection --thread 1 results/vic_ha/tree/vic_ha_aligned.fasta.to_align.fasta 1> results/vic_ha/tree/vic_ha_aligned.fasta 2> results/vic_ha/tree/vic_ha_aligned.fasta.log 
+
+	Katoh et al, Nucleic Acid Research, vol 30, issue 14
+	https://doi.org/10.1093%2Fnar%2Fgkf436
+
+22bp insertion at ref position 0
+	ATTTTCTA: B/AUSTRIA/1359417/2021e_F, B/Singapore/WUH0784/2021e_F, othB/Penrhyndeudraeth/8566/2024, othB/Nordrhein-Westfalen/8/2024, cdcB/Ranong/373/2023, cdcB/Utah/11/2023, cdcB/Rhode_Island/23/2024, cdcB/Alabama/07/2023, B/VICTORIA/2110/2019, B/Victoria/2113/2019e_F, B/COLORADO/06/2017, B/VICTORIA/905/2019, B/HONG_KONG/269/2017
+	AGCAGAAGCAGAGCATTTTCTA: B/WASHINGTON/02/2019
+1bp insertion at ref position 1830
+	G: B/AUSTRIA/1359417/2021e_F, B/Singapore/WUH0784/2021e_F, othB/Penrhyndeudraeth/8566/2024, othB/Nordrhein-Westfalen/8/2024, cdcB/Ranong/373/2023, cdcB/Utah/11/2023, cdcB/Rhode_Island/23/2024, cdcB/Alabama/07/2023, B/VICTORIA/2110/2019, B/Victoria/2113/2019e_F, B/WASHINGTON/02/2019, B/COLORADO/06/2017, B/VICTORIA/905/2019, B/HONG_KONG/269/2017
+20bp insertion at ref position 1842
+	AAAAT: B/AUSTRIA/1359417/2021e_F, B/Singapore/WUH0784/2021e_F, othB/Nordrhein-Westfalen/8/2024, cdcB/Ranong/373/2023, cdcB/Utah/11/2023, cdcB/Rhode_Island/23/2024, cdcB/Alabama/07/2023, B/VICTORIA/2110/2019, B/Victoria/2113/2019e_F, B/COLORADO/06/2017, B/VICTORIA/905/2019, B/HONG_KONG/269/2017
+	AAAATG: othB/Penrhyndeudraeth/8566/2024
+	AAAATGCTCTTGTTACTACT: B/WASHINGTON/02/2019
+Trimmed gaps in CY018813.1 from the alignment

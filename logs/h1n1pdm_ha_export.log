@@ -1,0 +1,79 @@
+WARNING: results/h1n1pdm_ha/auspice/h1n1pdm_ha_auspice_tip-frequencies.json has empty or nonexistent `nodes` and `branches`. Please check the formatting of this JSON!
+WARNING: [config file] Trait 'passage' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'type' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'location' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'haplotype' is missing type information. We've guessed 'categorical'.
+
+WARNING: Geo resolution "country" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+WARNING: Geo resolution "region" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+WARNING: location->Fiji did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Singapore did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->India did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Cook Islands did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Bhutan did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Nepal did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Australia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Philippines did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Cambodia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Sri Lanka did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Indonesia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Thailand did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->New Caledonia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->New Zealand did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->South Africa did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Maldives did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Brunei did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Timor-Leste did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Geo resolution "location" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+WARNING: state->Western Australia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->Northern Territory did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->Australian Capital Territory did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->New South Wales did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->Victoria did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->Tasmania did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->Queensland did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: state->South Australia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: Geo resolution "state" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+	WARNING:  Default label to display "subclade" isn't found anywhere on the tree!
+Validating schema of 'results/h1n1pdm_ha/tree/h1n1pdm_ha_aa_muts.json'...
+Validating schema of 'results/h1n1pdm_ha/tree/h1n1pdm_ha_nt_muts.json'...
+Validating config file config/auspice_config.json against the JSON schema
+Validating schema of 'config/auspice_config.json'...
+Validating produced JSON
+Validating schema of 'results/h1n1pdm_ha/auspice/h1n1pdm_ha_auspice.json'...
+Validating that the JSON is internally consistent...
+Validation of 'results/h1n1pdm_ha/auspice/h1n1pdm_ha_auspice.json' succeeded, but there were warnings you may want to resolve.
+

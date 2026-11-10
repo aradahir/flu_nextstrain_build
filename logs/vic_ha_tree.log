@@ -1,0 +1,7 @@
+Building a tree via:
+	iqtree2 --threads-max 1 -s results/vic_ha/tree/vic_ha_aligned-delim.fasta -m GTR --ninit 2 -n 2 --epsilon 0.05 -T AUTO --redo > results/vic_ha/tree/vic_ha_aligned-delim.iqtree.log
+	Nguyen et al: IQ-TREE: A fast and effective stochastic algorithm for estimating maximum likelihood phylogenies.
+	Mol. Biol. Evol., 32:268-274. https://doi.org/10.1093/molbev/msu300
+
+
+Building original tree took 2.5582845211029053 seconds

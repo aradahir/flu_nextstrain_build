@@ -1,0 +1,48 @@
+======================================================================
+Frequency Estimation - KDE Method
+======================================================================
+Metadata: results/vic_ha/tree/vic_ha_metadata_formatted.tsv
+Tree JSON: results/vic_ha/auspice/vic_ha_tree.json
+KDE bandwidth: 0.08333333333333333
+Pivot interval: 6 weeks
+Grouping by: clade, subclade
+Output (for augur export): results/vic_ha/auspice/vic_ha_frequencies.json
+Output (tip-frequencies sidecar): results/vic_ha/auspice/vic_ha_auspice_tip-frequencies.json
+======================================================================
+
+Step 1: Loading data...
+  ✓ Loaded tree JSON
+  ✓ Loaded metadata: 481 strains
+  ✓ Parsed dates
+
+Step 2: Filtering valid strains...
+  ✓ Valid strains: 481
+  ✓ Date range: 2008.59 to 2025.19
+  ✓ clade: 7 unique values
+  ✓ subclade: 13 unique values
+
+Step 3: Computing frequencies with KDE...
+  ✓ Generated 2 pivot points
+  Computing frequency matrix for 481 strains...
+  ✓ Computed matrix: (481, 2)
+  Normalizing frequencies...
+  ✓ Normalization complete
+
+Step 4: Generating frequency outputs...
+  ℹ Skipping tip frequencies (use --include-tips to add)
+  ✓ Added 1 'clade' group frequencies
+  ✓ Added 5 'subclade' group frequencies
+  ✓ Added global frequency
+
+✓ Wrote frequency data to: results/vic_ha/auspice/vic_ha_frequencies.json
+  Total keys: 9
+  This file should be included in 'augur export v2 --node-data'
+
+Step 5: Creating tip-frequencies sidecar...
+✓ Wrote tip-frequencies sidecar to: results/vic_ha/auspice/vic_ha_auspice_tip-frequencies.json
+  Total tips: 75
+  This file will be automatically loaded by Auspice if named correctly
+
+======================================================================
+✓ SUCCESS!
+======================================================================

@@ -1,0 +1,23 @@
+
+using mafft to align via:
+	mafft --reorder --anysymbol --nomemsave --adjustdirection --thread 1 results/h1n1pdm_ha/tree/h1n1pdm_ha_aligned.fasta.to_align.fasta 1> results/h1n1pdm_ha/tree/h1n1pdm_ha_aligned.fasta 2> results/h1n1pdm_ha/tree/h1n1pdm_ha_aligned.fasta.log 
+
+	Katoh et al, Nucleic Acid Research, vol 30, issue 14
+	https://doi.org/10.1093%2Fnar%2Fgkf436
+
+13bp insertion at ref position 0
+	GAGCAAAAGCAGG: othA/Sling/5435/2024
+	AGCAAAAGCAGG: cnicA/Henan-Shancheng/SWL1468/2024
+3bp insertion at ref position 26
+	GCA: A/South_Australia/2519711935/2025_jul
+3bp insertion at ref position 28
+	T: A/India/Mum-NIV26-961/2026_jun, A/India/Pun-NIV26-1069/2026_jul, A/India/Ker-NIV26-981/2026_jun, A/India/Pun-NIV26-1218/2026_aug
+	AAT: A/India/Pun-NIV26-1091/2026_aug
+3bp insertion at ref position 29
+	WARNING: this insertion was caused due to 'N's or '?'s in provided sequences
+4bp insertion at ref position 1093
+	CGAA: A/Queensland/IN002152/2025_aug
+13bp insertion at ref position 1752
+	CCTTGTTTCTAC: A/Singapore/KK1943/2025_sep
+	CCTTGTTTCTACT: othA/Sling/5435/2024, cnicA/Henan-Shancheng/SWL1468/2024
+Trimmed gaps in CY121680.1 from the alignment
